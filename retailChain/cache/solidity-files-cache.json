@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Solo Slayer\\Desktop\\retail-chain\\retailChain\\contracts\\retailChain.sol": {
+      "lastModificationDate": 1670177060821,
+      "contentHash": "4fea566f6da971da4461d0ed3784ed06",
+      "sourceName": "contracts/retailChain.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "retail"
+      ]
+    },
+    "C:\\Users\\Solo Slayer\\Desktop\\retail-chain\\retailChain\\contracts\\Retailchain.sol": {
+      "lastModificationDate": 1670179257010,
+      "contentHash": "4fea566f6da971da4461d0ed3784ed06",
+      "sourceName": "contracts/Retailchain.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "retail"
+      ]
+    }
+  }
+}

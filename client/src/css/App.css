@@ -1,0 +1,22 @@
+.link{
+  /* position: absolute; */
+  background-color: rgb(34, 9, 172);
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  /* position: absolute; */
+  /* bottom: 10px; */
+  /* margin-bottom: 50px; */
+  /* right: 30px; */
+  color: whitesmoke;
+  font-size: large;
+  font-weight: 900;
+}
+a{
+  margin-right: 10px
+}
+
+.menu{
+  position: relative;
+  height: 100%;
+}
